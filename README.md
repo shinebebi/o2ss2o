@@ -1,4 +1,4 @@
-## o2ss2o
+### o2ss2o
 Convert file's permissions between octal and symbolic formats
 
 ## Launch via terminal:
